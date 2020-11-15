@@ -1,0 +1,3 @@
+config:
+  msg: 测试环境
+  version: 1
