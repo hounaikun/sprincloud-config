@@ -1,3 +1,2 @@
 config:
-  msg: 开发环境
-  version: 1
+  info: "version:1"
