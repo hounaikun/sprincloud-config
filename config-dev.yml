@@ -1,5 +1,5 @@
 config:
   msg: 开发环境
   version: 2
-  info: "version:4"
+  info: "version:5"
   port: 33441
